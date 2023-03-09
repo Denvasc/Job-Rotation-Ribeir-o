@@ -1,0 +1,11 @@
+a) A logica é adicionar 2 ao número anterior. Portanto, o próximo número será 9.
+
+b) A logica é multiplicar o número anterior por 2. Portanto, o próximo número será 128.
+
+c) A logica é elevar ao quadrado o índice da posição do número na sequência. Por exemplo, o primeiro número (0) está elevado a 0, o segundo número (1) está elevado a 1, o terceiro número (4) está elevado a 2, o quarto número (9) está elevado a 3, e assim por diante. Portanto, o próximo número será 49 elevado a 7, que é igual a 5764801.
+
+d) A logica é adicionar 12 ao número anterior. Portanto, o próximo número será 100.
+
+e) A logica é somar os dois números anteriores. Portanto, o próximo número será 13.
+
+f) A logica é somar o número anterior com o menor número ímpar que faz com que a soma seja um quadrado perfeito. Portanto, o próximo número será 20, pois 20 + 1 = 21, que é um quadrado perfeito (5^2).
