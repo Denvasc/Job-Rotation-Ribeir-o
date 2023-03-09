@@ -1,0 +1,21 @@
+int INDICE = 13, SOMA = 0, K = 0;
+
+enquanto K < INDICE faça
+
+{
+
+K = K + 1;
+
+SOMA = SOMA + K;
+
+}
+
+imprimir(SOMA);
+
+O código apresentado é um laço de repetição "enquanto" que incrementa a variável K a cada iteração, e adiciona o valor de K na variável SOMA.
+
+O laço será executado enquanto K for menor que INDICE (13), ou seja, ele será executado 13 vezes.
+
+Ao final da execução do laço, a variável SOMA terá somado todos os números de 1 a 13.
+
+Portanto, o valor impresso será: 91
