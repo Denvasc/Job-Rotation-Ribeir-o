@@ -1,0 +1,22 @@
+Para resolver esse problema, podemos considerar a distância entre as duas cidades como sendo de 100 km, conforme indicado no enunciado.
+
+Além disso, como o caminhão leva 5 minutos a mais em cada pedágio do que o carro, podemos considerar que ele leva um tempo total de 10 minutos extras em relação ao carro para percorrer toda a distância entre as duas cidades.
+
+Para calcular a distância percorrida por cada veículo até o ponto de encontro, podemos usar a fórmula de distância = velocidade x tempo. Como o tempo que cada veículo leva para chegar ao ponto de encontro é diferente, podemos calcular esse tempo para cada um separadamente.
+
+Para o carro:
+
+Distância percorrida até o ponto de encontro = velocidade x tempo
+Velocidade do carro = 110 km/h
+Tempo que o carro leva para percorrer a distância total (100 km) = 100/110 horas
+Tempo que o carro leva para chegar ao ponto de encontro = metade do tempo total = (100/110)/2 horas
+Distância percorrida pelo carro até o ponto de encontro = 110 x (100/110)/2 = 50 km
+Para o caminhão:
+
+Distância percorrida até o ponto de encontro = velocidade x tempo
+Velocidade do caminhão = 80 km/h
+Tempo que o caminhão leva para percorrer a distância total (100 km) = 100/80 horas
+Tempo que o caminhão leva para chegar ao ponto de encontro = metade do tempo total + 10 minutos (0,16667 horas) = ((100/80)/2) + 0,16667 horas
+Distância percorrida pelo caminhão até o ponto de encontro = 80 x (((100/80)/2) + 0,16667) = 45 km
+
+Portanto, quando se cruzarem, o carro estará mais próximo de Ribeirão Preto, pois terá percorrido uma distância maior em relação a essa cidade. O caminhão terá percorrido uma distância menor em relação a Ribeirão Preto, devido à diferença de tempo que leva em relação ao carro para percorrer a distância total.
